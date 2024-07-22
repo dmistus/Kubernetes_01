@@ -8,7 +8,8 @@
  
 ![](img/1.png)
  
-![](img/2.png) 
+![](img/2.png)
+ 
  Редактирование файла /var/snap/microk8s/current/certs/csr.conf.template
  
 ![](img/3.png)
